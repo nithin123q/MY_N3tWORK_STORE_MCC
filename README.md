@@ -13,3 +13,5 @@ the user his/her current address and location.
 We also provided some additional features like alerts while the user deletes his orders or exits the app.
 Using our app, the user will be able to buy any networking component which he wants for his use.
 
+
+
